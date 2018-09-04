@@ -2,6 +2,7 @@
 
 require_once 'Pessoa.php';
 require_once 'Pessoa2.php';
+require_once 'vendor/autoload.php';
 
 use Projeto\Pessoa;
 

@@ -1,0 +1,13 @@
+{
+    "name": "natanrch/composer-1",
+    "description": "Aula de composer da matéria laboratório",
+    "authors": [
+        {
+            "name": "Natan Rocha Batista",
+            "email": "natan.rocha.batista@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.4"
+    }
+}
